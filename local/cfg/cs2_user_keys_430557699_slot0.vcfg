@@ -1,0 +1,19 @@
+"config"
+{
+	"bindings"
+	{
+		"SHIFT"		"+duck"
+		"CTRL"		"+sprint"
+		"f"		"slot10"
+		"MOUSE1"		"+attack"
+		"6"		"<unbound>"
+		"MOUSE3"		"slot6"
+		"7"		"<unbound>"
+		"MOUSE4"		"slot7"
+		"8"		"<unbound>"
+		"MOUSE5"		"slot8"
+		"0"		"<unbound>"
+		"v"		"+voicerecord"
+		"CAPSLOCK"		"noclip"
+	}
+}
