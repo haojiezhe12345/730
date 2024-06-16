@@ -1,6 +1,6 @@
 "730"
 {
-	"ChangeNumber"		"-2717087283519283435"
+	"ChangeNumber"		"0"
 	"ostype"		"0"
 	"cfg/csgo_saved_item_shuffles.txt"
 	{
@@ -18,8 +18,8 @@
 	{
 		"root"		"0"
 		"size"		"314"
-		"localtime"		"1714146466"
-		"time"		"1714146460"
+		"localtime"		"1718379201"
+		"time"		"1718379205"
 		"remotetime"		"1709651349"
 		"sha"		"9f26c1d76f7d4d9041891d5d90ccf802e46bfeb7"
 		"syncstate"		"4"
@@ -30,8 +30,8 @@
 	{
 		"root"		"0"
 		"size"		"3227"
-		"localtime"		"1714146466"
-		"time"		"1714146460"
+		"localtime"		"1718379201"
+		"time"		"1718379205"
 		"remotetime"		"1709651349"
 		"sha"		"6403168c53122f25bd90217d8f7930b7d4eef0aa"
 		"syncstate"		"4"
@@ -42,10 +42,10 @@
 	{
 		"root"		"0"
 		"size"		"64"
-		"localtime"		"1714146444"
-		"time"		"1714146438"
+		"localtime"		"1718379174"
+		"time"		"1718379178"
 		"remotetime"		"1709651349"
-		"sha"		"0cea61666a6d87cc698f14fc53559e1c80876ed0"
+		"sha"		"d1ad7a688365eb2278cb202684ca5d21bc017924"
 		"syncstate"		"4"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
@@ -78,10 +78,10 @@
 	{
 		"root"		"0"
 		"size"		"1632"
-		"localtime"		"1714146466"
-		"time"		"1714146460"
+		"localtime"		"1718379201"
+		"time"		"1718379205"
 		"remotetime"		"1709651349"
-		"sha"		"1aae05d23c9cbd5f4cbc9bbd8579b4e3cc4fa02f"
+		"sha"		"2e4523bfebf0ff5a9ab66db3efee82c8f59bd28c"
 		"syncstate"		"4"
 		"persiststate"		"0"
 		"platformstosync2"		"-1"
@@ -108,18 +108,6 @@
 		"sha"		"093ba0d631762f28876244d298181d7e67de587e"
 		"syncstate"		"3"
 		"persiststate"		"0"
-		"platformstosync2"		"-1"
-	}
-	"2024-02-23 00.43.14.png"
-	{
-		"root"		"0"
-		"size"		"1820151"
-		"localtime"		"1708620194"
-		"time"		"1708620195"
-		"remotetime"		"0"
-		"sha"		"6497451dafd3b07d6476719a8277aed5d252ea98"
-		"syncstate"		"1"
-		"persiststate"		"1"
 		"platformstosync2"		"-1"
 	}
 }
