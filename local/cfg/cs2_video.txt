@@ -16,7 +16,7 @@
 	"setting.nowindowborder"		"1"
 	"setting.fullscreen_min_on_focus_loss"		"0"
 	"setting.high_dpi"		"0"
-	"setting.coop_fullscreen"		"1"
+	"setting.coop_fullscreen"		"0"
 	"setting.videocfg_shadow_quality"		"0"
 	"setting.videocfg_texture_detail"		"0"
 	"setting.videocfg_ao_detail"		"0"
